@@ -1,3 +1,3 @@
-public class  ExpandedClass extends BasicClass{
-    
+public class ExpandedClass extends BasicClass {
+
 }
