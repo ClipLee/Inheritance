@@ -1,3 +1,7 @@
+## Kod do lekcji 75.
+Repozytorium stworzone do przechowywania kodu utworzonego w oparciu o lekcję 75 kursu "JAVA od podstaw". 
+___
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
