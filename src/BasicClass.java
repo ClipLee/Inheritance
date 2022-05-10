@@ -1,4 +1,4 @@
-public class class BasicClass {
+public class BasicClass {
     
     int firstField;
     int secondField;
